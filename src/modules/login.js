@@ -13,7 +13,6 @@ let Login = {
         
          </form>
         </div>
-        
         `
         return view
     },
